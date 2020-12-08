@@ -1,14 +1,14 @@
-# 骑鹿人的计算机科学学习指南
-原文地址：http://cslearner.cn QQ交流群：296867034
+# 计算机科学学习指南
 
-## 本指南：
-- 汇集互联网上的**优质免费教材、视频资源**。
-- 为在读的**计算机系学生，编程爱好者**提供**系统的学习方案**。
-- 为通过培训班出身和跨领域的**IT相关从业者**提供**知识进阶路线**。
-- 帮助在学习计算机科学中感到迷茫的朋友们**寻找兴趣领域**。
-- 破除**快餐学习风气**和“IT门槛低”偏见。
-- 学习计算机的硬核小建议。
-- 去繁求简，避免单纯的平行资料堆叠，只选择最好最值得的资源推荐。
+## 免责声明
+
+本指南是一时兴起所为，如果能对大家有一些帮助就很开心了～如果有建议、新的想法，或者找到了原网站的漏误，欢迎给骑鹿人发邮件哦（akiritsu@outlook.com)。本站一部分内容参考了Quora，知乎，teachyourselfcs.com，如有侵权立即删除。
+  1. 对于资源而言，如果有多个“经典教材”内容或领域重复，只选取综合内容最好、最适合自学的一个，**避免单纯地罗列“平行书籍“、“同类资源”**。
+  2. 本站资源骑鹿人及友人**只看过约一半**（？），不了解的领域是通过**对比CS四大名校的教材和Quora问答**给出，可能存在谬误，一经发现骑鹿人会在第一时间修正。
+
+******
+
+原文地址：http://cslearner.cn 
 
 ## 基础自学教材、视频
 
@@ -22,7 +22,7 @@
     <th>类别</th>
     <th>科目</th>
     <th>自学书籍（中文版/英文版）</th>
-    <th>视频课程</th>
+    <th>视频课程（B站/网易公开课）</th>
     <th>学习目标</th>
   </tr>
   <tr>
@@ -156,6 +156,8 @@
   </tr>
 </table>
 
+******
+
 ## 学习观小问答
 本节是关于计算机科学学习观的主观理念，希望可以给你提供对于计算机科学学习的“大菊观”。适用于各路萌新和迷茫的CS学子，不适用CS界精英学子，IOer，各领域大牛和专家。
 
@@ -227,29 +229,9 @@ A： 逻辑思维对于初级程序员来说有一定锻炼思维的作用。但
 **Q： 数理逻辑？**<br>
 A： 数理逻辑是和理论计算机科学紧密相连的一科，基础的数理逻辑已由《离散数学及其应用》囊括。数理逻辑主要分支有证明论，模型论，公理化集合论和递归论，其中证明论和递归论与计算机科学的研究相关较密切。然而，不想从事编程语言、自动推理等领域研究的同学们，对此不必太过看重。
 
-## 支持本网站
+## 推荐书单：
 
-1. 找到错误！找到更好的资源！好的建议！邮箱：akiritsu@outlook.com；QQ群：296867034，性感群主，在线女装。
-2. Github加星或者关注骑鹿人。
-3. 转载，帮助更多的初学者，也请注明出处（本网站不定期更新）。
-
-## 免责声明
-
-本指南是骑鹿人一时兴起所为，如果能对大家有一些帮助就很开心了～如果有建议、新的想法，或者找到了本网站的漏误，欢迎给骑鹿人发邮件哦（akiritsu@outlook.com)。本站一部分内容参考了Quora，知乎，teachyourselfcs.com，使用的jekyll主题是BlackDocs，如有侵权立即删除。
-  1. 对于资源而言，如果有多个“经典教材”内容或领域重复，只选取综合内容最好、最适合自学的一个，**避免单纯地罗列“平行书籍“、“同类资源”**。
-  2. 本站资源骑鹿人及友人**只看过约一半**（？），不了解的领域是通过**对比CS四大名校的教材和Quora问答**给出，可能存在谬误，一经发现骑鹿人会在第一时间修正。
-  3. 本站面向的是初学者，迷途小羔羊，爱好者；且对资源的选取和对比比较负责。并不适合各路精英大神，看完再喷～没人是傻X，或者所有人都是傻X～
-
-## 骑鹿人的156本计算机领域推荐书单
-
-1. 不要问骑鹿人为什么是英文的～
-2. 书籍侧重点比较个人向，极力避免冗余。
-3. **很多书的意义不在于努力通读学完它**，而在于在你遇到问题的时候，有**不同的角度和思路**，你**知道读它可以帮你。**这些书骑鹿人大多只读过部分，少数通读。
-4. 推荐书籍仅**少数是通读自学教材**。每个子学科一般最多保留四类：
-  - **入门自学类**，对于本专业人士和研究人员入门该领域最简单最高效的书籍，但不包括过于简单、言之无物，或者非专业人士的入门书籍，如《程序员的数学》，《算法图解》；
-  - **进阶课题类**，该领域的进阶分析介绍，或涉及高级及应用，；
-  - **综合性手册**，对于该领域内容阐述较全的描述性手册，此类书籍一般用于查阅，不建议通读；
-  - **专用性手册**，用于特殊应用和情景的专著，限于个人水平和精力只收集少部分。
+******
 
 ## Programming and Problem Solving
 
@@ -1335,7 +1317,7 @@ Rust
 
 Haskell
 
-- **Real World Haskell**, Bryan O'Sullivan, John Goerzen, Don Stewart
+- **[Real World Haskell](http://book.realworldhaskell.org/)**, Bryan O'Sullivan, John Goerzen, Don Stewart
 
 Idris
 
@@ -1349,24 +1331,26 @@ Elixir
 
 ML
 
-- **ML for the Working Programmer**, Lawrence C. Paulson
+- **[ML for the Working Programmer](https://www.cl.cam.ac.uk/~lp15/MLbook/)**, Lawrence C. Paulson
 
 Scheme
 
-- **How to Design Programs**, 2nd Edition, Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
+- **[How to Design Programs](https://htdp.org/)**, 2nd Edition, Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 
 Common Lisp
 
-- **Practical Common Lisp**, Peter Seibel
-- **Let Over Lambda**, Doug Hoyte, 2008 - Let Over Lambda is one of the most hardcore computer programming books out there. Starting with the fundamentals, it describes the most advanced features of the most advanced language: Common Lisp. Only the top percentile of programmers use lisp and if you can understand this book you are in the top percentile of lisp programmers. If you are looking for a dry coding manual that re-hashes common-sense techniques in whatever langue du jour, this book is not for you. This book is about pushing the boundaries of what we know about programming. While this book teaches useful skills that can help solve your programming problems today and now, it has also been designed to be entertaining and inspiring. If you have ever wondered what lisp or even programming itself is really about, this is the book you have been looking for.
+- **[Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)**, Guy L. Steele
+- **[Practical Common Lisp](http://www.gigamonkeys.com/book/)**, Peter Seibel
+- **[Let Over Lambda](https://letoverlambda.com/)**, Doug Hoyte, 2008 - Let Over Lambda is one of the most hardcore computer programming books out there. Starting with the fundamentals, it describes the most advanced features of the most advanced language: Common Lisp. Only the top percentile of programmers use lisp and if you can understand this book you are in the top percentile of lisp programmers. If you are looking for a dry coding manual that re-hashes common-sense techniques in whatever langue du jour, this book is not for you. This book is about pushing the boundaries of what we know about programming. While this book teaches useful skills that can help solve your programming problems today and now, it has also been designed to be entertaining and inspiring. If you have ever wondered what lisp or even programming itself is really about, this is the book you have been looking for.
 
 Coq
 
-- **Software Foundations**, Benjamin C. Pierce
+- **[Software Foundations](https://softwarefoundations.cis.upenn.edu/)**, Benjamin C. Pierce
 - [**Certified Programming with Dependent Types (CPDT)**](https://www.amazon.com/Certified-Programming-Dependent-Types-Introduction/dp/0262026651/ref=sr_1_fkmrnull_1?keywords=Certified+Programming+with+Dependent+Types&qid=1555168397&s=books&sr=1-1-fkmrnull), 2013, Adam Chlipala
 
 Agda
 
+- **[Programming Language Foundations in Agda](https://plfa.github.io/)**, Philip Wadler and Wen Kokke & [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)
 - **Verified Functional Programming in Agda**, Aaron
 
 ## 一些值得关注的顶会期刊
